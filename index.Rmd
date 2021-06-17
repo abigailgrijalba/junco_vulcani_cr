@@ -115,7 +115,7 @@ junco_vulcani %>%
   addCircleMarkers(
     stroke = F,
     radius = 4,
-    fillColor = 'gray',
+    fillColor = 'black',
     fillOpacity = 1,
     popup = paste(
       junco_vulcani$stateProvince,
